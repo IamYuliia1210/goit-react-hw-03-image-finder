@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-03-image-findernpm%20i%20react-hot-toast/static/css/main.b5320759.css",
-    "main.js": "/goit-react-hw-03-image-findernpm%20i%20react-hot-toast/static/js/main.07d3183d.js",
+    "main.js": "/goit-react-hw-03-image-findernpm%20i%20react-hot-toast/static/js/main.975897fc.js",
     "index.html": "/goit-react-hw-03-image-findernpm%20i%20react-hot-toast/index.html",
-    "main.b5320759.css.map": "/goit-react-hw-03-image-findernpm%20i%20react-hot-toast/static/css/main.b5320759.css.map",
-    "main.07d3183d.js.map": "/goit-react-hw-03-image-findernpm%20i%20react-hot-toast/static/js/main.07d3183d.js.map"
+    "main.975897fc.js.map": "/goit-react-hw-03-image-findernpm%20i%20react-hot-toast/static/js/main.975897fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5320759.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.975897fc.js"
   ]
 }
