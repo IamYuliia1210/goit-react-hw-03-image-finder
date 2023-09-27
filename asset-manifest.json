@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/goit-react-hw-03-image-findernpm%20i%20react-hot-toast/static/js/main.975897fc.js",
-    "index.html": "/goit-react-hw-03-image-findernpm%20i%20react-hot-toast/index.html",
-    "main.975897fc.js.map": "/goit-react-hw-03-image-findernpm%20i%20react-hot-toast/static/js/main.975897fc.js.map"
+    "main.js": "/goit-react-hw-03-image-finder/static/js/main.946b9905.js",
+    "index.html": "/goit-react-hw-03-image-finder/index.html",
+    "main.946b9905.js.map": "/goit-react-hw-03-image-finder/static/js/main.946b9905.js.map"
   },
   "entrypoints": [
-    "static/js/main.975897fc.js"
+    "static/js/main.946b9905.js"
   ]
 }
